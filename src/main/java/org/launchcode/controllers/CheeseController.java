@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import javax.validation.Valid;
 
 @Controller
-@RequestMapping("cheese")
+@RequestMapping("MartialArts")
 public class CheeseController {
 
     @Autowired
